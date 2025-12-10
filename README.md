@@ -1,1 +1,1 @@
-# Research-and-analysis-of-company-stock
+Assignment for FNCE3001 (Introduction to Financial Instruments and Markets). This assignment saw students assigned a particular stock with the task of uncovering key insights into wether or not the stock is good buy at current times. This was done through the analysis of financial information and comparison amongst other similar stocks.
